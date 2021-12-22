@@ -1,0 +1,4 @@
+Invoking: bash scripts/build-examples.sh ${EXAMPLES_BUILD_TYPE} 
+
+$ NODE_ENV=production webpack --mode=production 
+Backend URI:  https://live-examples-proxy.herokuapp.com
